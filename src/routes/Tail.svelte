@@ -310,7 +310,7 @@
 
 					<td width="13%" valign="top">
 						<b>Email</b>
-						<a href="kamil.mousa9@gmail.com" style="text-decoration:none" />
+						<a href="mailto:kamil.mousa9@gmail.com" style="text-decoration:none" />
 						<a href="https://www.linkedin.com/in/kamil-sabbagh-b84839194/">
 							<img
 								src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png"
