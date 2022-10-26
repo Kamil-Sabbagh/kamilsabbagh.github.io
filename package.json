@@ -15,7 +15,7 @@
 		  "npm run lint",
 		  "npm run format"
 		]
-	  },
+	},
 	"devDependencies": {
 		"@fontsource/fira-mono": "^4.5.0",
 		"@neoconfetti/svelte": "^1.0.0",
